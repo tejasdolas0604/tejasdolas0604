@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Aspiring Data Analyst</b>
+<h2>Aspiring Data Analyst</h2>
 
 
 # 💻 Tech Stack:
