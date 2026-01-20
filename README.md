@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>🌱 I’m currently learning data analytics
+<b>Aspiring Data Analyst</b>
 
 
 # 💻 Tech Stack:
